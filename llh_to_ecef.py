@@ -1,4 +1,4 @@
-# ecef_to_llh.py
+# llh_to_ecef.py
 #
 # Usage: python3 ecef_to_llh.py r_x_km r_y_km r_z_km
 #  Converts ECEF vector components to LLH
